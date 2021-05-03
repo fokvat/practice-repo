@@ -3,8 +3,8 @@ body{
 }
 
 h1{
-    color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(13, 29, 97);
+    font-family:'Times New Roman', Times, serif;
     font-size: 14px;
     text-align: center;
 }
