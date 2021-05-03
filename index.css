@@ -3,8 +3,8 @@ body{
 }
 
 h1{
-    color: rgb(13, 29, 97);
     font-family:'Times New Roman', Times, serif;
+    color: red;
     font-size: 14px;
-    text-align: center;
+    text-align: left;
 }
